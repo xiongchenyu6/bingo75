@@ -1,7 +1,9 @@
 * bingo75
 This a bingo75 game write with html javascript css and jquery, easy to use and modify, feel free to modify it if you like.
 
-
-[[./demo/demo1.gif][demo1]]
-
-[[./demo/demo2.gif][demo2]]
+#+CAPTION: This is just a boring demo
+#+NAME:   fig:1
+[[./demo/demo1.gif]]
+#+CAPTION: This is just a boring demo
+#+NAME:   fig:2
+[[./demo/demo2.gif]]
