@@ -1,4 +1,6 @@
 * bingo75
+Demo on: https://xiongchenyu6.github.io/bingo75/
+
 This a bingo75 game write with html javascript css and jquery, easy to use and modify, feel free to modify it if you like.
 
 #+CAPTION: This is just a boring demo
